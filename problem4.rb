@@ -8,4 +8,3 @@ begin
   rescue Errno::ENOENT
     puts "Error: File 'input.txt' not found."
   end
-end
